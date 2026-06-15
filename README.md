@@ -18,7 +18,7 @@ All code to recreate the results, figures, and tables can be found in the `code`
 
 1. [model_fit.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/model_fit.R) imports all SVAD data and fits the requisite growth models.
 2. [Figure1.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure1.R) recreates Figure 1. Note, the Harpenden dataset is required for full reproducibility.
-3. [Figure2.R(https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure2.R)] recreates Figure 2.
+3. [Figure2.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure2.R) recreates Figure 2.
 4. [Figure3.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure3.R) recreates Figure 3.
 5. [Figure4.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure4.R) recreates Figure 4.
 6. [Figure5.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure5.R) recreates Figure 5.
