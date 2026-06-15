@@ -23,7 +23,7 @@ All code to recreate the results, figures, and tables can be found in the `code`
 5. [Figure4.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure4.R) recreates Figure 4.
 6. [Figure5.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure5.R) recreates Figure 5.
 7. [Figure6.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/Figure6.R) recreates Figure 6. Note, the [errors_in_variables_growth.stan] model is required for this step.
-8. [tables.R] recreates Tables 2-5 from the text.
+8. [tables.R](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/code/tables.R) recreates Tables 2-5 from the text.
 
 Note, the [Supporting Information](https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA/blob/main/SI_Submission1.pdf) file is also included for full model transparency and description.
 
