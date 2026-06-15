@@ -8,7 +8,8 @@ To run the code for this paper locally, please ensure that [R](https://www.r-pro
 ### How to Cite
 If using the code in this repository for one's own work, please cite this compendium as:
 
-> Wolfe, C.A.
+> Wolfe, C. A. (2026). Wolfe_MonotonicGrowth_AJBA (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.20705569.
+[![DOI](https://zenodo.org/badge/1270277155.svg)](https://doi.org/10.5281/zenodo.20705568)
 
 ## The Data
 All data are from the [Subadult Virtual Anthropology Database](https://zenodo.org/communities/svad/records?q=&l=list&p=1&s=10&sort=newest). Specifically, this project uses portions of the data from the [United States](https://zenodo.org/records/5193208), [South Africa](https://zenodo.org/records/3950301), and [Colombia](https://zenodo.org/records/7668554). Note, Figure 1 does utilize data from the Harpenden Growth dataset (Tanner 1981; Johnson 2024).
