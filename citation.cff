@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wolfe"
+  given-names: "Christopher Aaron"
+  orcid: "0000-0001-9554-1683"
+title: "Wolfe_MonotonicGrowth_AJBA"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-06-15
+url: "https://github.com/ChristopherAWolfe/Wolfe_MonotonicGrowth_AJBA"
